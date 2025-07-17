@@ -1,0 +1,5 @@
+alert("JavaScript был разработан Бренданом Эйхом")
+alert("За десять дней")
+alert("В 1995 году ")
+alert("JavaScript — это не Java")
+alert("ECMAScript")
